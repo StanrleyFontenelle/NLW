@@ -19,8 +19,10 @@ Projeto construído do evento Next Level Week da Rocketseat
 - CSS
 - Git e Github
 
-## 📧 Contato
+## Contato
 
-fontenellemartins0@outlook.com
+📧 fontenellemartins0@outlook.com
+📞 92 9 9183-4453
+
 
 
